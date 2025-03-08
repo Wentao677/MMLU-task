@@ -65,12 +65,8 @@ python score_mmlu.py
 └── mmlu_data/
 ```
 
----
 
-## Notes
 
-- Ensure Python and pip are properly installed and configured on your system.
-- Check for any potential errors after running each script to confirm correct execution.
 
 
 
