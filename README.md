@@ -9,7 +9,7 @@ To download the required MMLU dataset, run:
 python data_prepare.py
 ```
 
-Your downloaded data directory should be structured as follows:
+Your downloaded data directory will be structured as follows:
 
 ```
 mmlu_data
