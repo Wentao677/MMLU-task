@@ -11,9 +11,7 @@ def rephrase_question(client, original_question: str) -> str:
             {
                 "role": "system",
                 "content": (
-                    "You are a helpful assistant. "
-                    "Please rephrase the following question in a way that preserves its meaning, "
-                    "but do not alter the answer choices or the correct answer."
+                    "Rewriting question to make it more understandable, just give me the rewritten question without any other word: "
                 )
             },
             {
